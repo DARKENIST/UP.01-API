@@ -31,3 +31,4 @@ C:\NATKCollegeSchedule\obj\Debug\net8.0\refint\NATKCollegeSchedule.dll
 C:\NATKCollegeSchedule\obj\Debug\net8.0\NATKCollegeSchedule.pdb
 C:\NATKCollegeSchedule\obj\Debug\net8.0\NATKCollegeSchedule.genruntimeconfig.cache
 C:\NATKCollegeSchedule\obj\Debug\net8.0\ref\NATKCollegeSchedule.dll
+C:\NATKCollegeSchedule\obj\Debug\net8.0\NATKCollegeSchedule.csproj.AssemblyReference.cache

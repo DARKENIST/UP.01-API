@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using NATKCollegeSchedule.Models;
 
 namespace NATKCollegeSchedule.Models
 {
@@ -18,6 +19,6 @@ namespace NATKCollegeSchedule.Models
         [Required]
         public string Address { get; set; } = null!;
 
-        public List<Classroom> Classrooms { get; set; } = new();
+        public List <Classroom> Classrooms { get; set; } = new();
     }
 }
