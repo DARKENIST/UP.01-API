@@ -114,3 +114,8 @@ C:\NATKCollegeSchedule\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.res
 C:\NATKCollegeSchedule\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\NATKCollegeSchedule\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\NATKCollegeSchedule\obj\Debug\net8.0\NATKColl.101A071B.Up2Date
+C:\NATKCollegeSchedule\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\NATKCollegeSchedule\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\NATKCollegeSchedule\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\NATKCollegeSchedule\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\NATKCollegeSchedule\obj\Debug\net8.0\NATKCollegeSchedule.MvcApplicationPartsAssemblyInfo.cs
