@@ -2,6 +2,7 @@
 using NATKCollegeSchedule.DTO;
 using NATKCollegeSchedule.Models;
 using NATKCollegeSchedule.Models.CollegeSchedule.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Net;
 
 namespace NATKCollegeSchedule.Services
@@ -24,7 +25,7 @@ groupName, DateTime startDate, DateTime endDate)
 
             var schedules = await LoadSchedules(group.GroupId, startDate, endDate);
 
-            return BuildScheduleDto(schedules);
+            return BuildScheduleDto(startDate, endDate, schedules);
         }
 
         private static void ValidateDates(DateTime start, DateTime end)

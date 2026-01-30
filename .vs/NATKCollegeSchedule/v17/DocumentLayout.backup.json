@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\NATKCollegeSchedule\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|c:\\natkcollegeschedule\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|solutionrelative:services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|c:\\natkcollegeschedule\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|solutionrelative:models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|c:\\natkcollegeschedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|c:\\natkcollegeschedule\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|solutionrelative:models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|c:\\natkcollegeschedule\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|solutionrelative:services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|c:\\natkcollegeschedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|c:\\natkcollegeschedule\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|solutionrelative:models\\lessongrouppart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|c:\\natkcollegeschedule\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|solutionrelative:models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|c:\\natkcollegeschedule\\natkcollegeschedule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A55C2D88-DFD0-4D80-80DC-55DFFD021123}|NATKCollegeSchedule.csproj|solutionrelative:natkcollegeschedule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,20 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\NATKCollegeSchedule\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "Middlewares\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\NATKCollegeSchedule\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "Middlewares\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T11:07:25.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ScheduleController.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Controllers\\ScheduleController.cs",
               "RelativeDocumentMoniker": "Controllers\\ScheduleController.cs",
@@ -127,20 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ScheduleService.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Services\\ScheduleService.cs",
               "RelativeDocumentMoniker": "Services\\ScheduleService.cs",
               "ToolTip": "C:\\NATKCollegeSchedule\\Services\\ScheduleService.cs",
               "RelativeToolTip": "Services\\ScheduleService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T10:38:41.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IScheduleService.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Services\\IScheduleService.cs",
               "RelativeDocumentMoniker": "Services\\IScheduleService.cs",
@@ -152,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ScheduleByDateDto.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\DTO\\ScheduleByDateDto.cs",
               "RelativeDocumentMoniker": "DTO\\ScheduleByDateDto.cs",
@@ -164,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LessonDto.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\DTO\\LessonDto.cs",
               "RelativeDocumentMoniker": "DTO\\LessonDto.cs",
@@ -176,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LessonPartDto.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\DTO\\LessonPartDto.cs",
               "RelativeDocumentMoniker": "DTO\\LessonPartDto.cs",
@@ -188,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -196,12 +183,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T10:32:59.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T10:32:59.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": ".env",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -213,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -225,20 +211,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Building.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\Building.cs",
               "RelativeDocumentMoniker": "Models\\Building.cs",
               "ToolTip": "C:\\NATKCollegeSchedule\\Models\\Building.cs",
               "RelativeToolTip": "Models\\Building.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T10:12:21.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T10:12:21.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "Models\\Classroom.cs",
+              "ToolTip": "C:\\NATKCollegeSchedule\\Models\\Classroom.cs",
+              "RelativeToolTip": "Models\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:14:32.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\NATKCollegeSchedule\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\NATKCollegeSchedule\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T11:07:25.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Weekday.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\Weekday.cs",
               "RelativeDocumentMoniker": "Models\\Weekday.cs",
@@ -250,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Schedule.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\Schedule.cs",
               "RelativeDocumentMoniker": "Models\\Schedule.cs",
@@ -262,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "Models\\Subject.cs",
@@ -274,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
@@ -286,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "StudentGroup.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\StudentGroup.cs",
               "RelativeDocumentMoniker": "Models\\StudentGroup.cs",
@@ -298,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Specialty.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\Specialty.cs",
               "RelativeDocumentMoniker": "Models\\Specialty.cs",
@@ -310,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "LessonTime.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\LessonTime.cs",
               "RelativeDocumentMoniker": "Models\\LessonTime.cs",
@@ -322,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "LessonGroupPart.cs",
               "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\LessonGroupPart.cs",
               "RelativeDocumentMoniker": "Models\\LessonGroupPart.cs",
@@ -331,18 +340,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T10:16:06.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Classroom.cs",
-              "DocumentMoniker": "C:\\NATKCollegeSchedule\\Models\\Classroom.cs",
-              "RelativeDocumentMoniker": "Models\\Classroom.cs",
-              "ToolTip": "C:\\NATKCollegeSchedule\\Models\\Classroom.cs",
-              "RelativeToolTip": "Models\\Classroom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T10:14:32.775Z"
             },
             {
               "$type": "Document",
